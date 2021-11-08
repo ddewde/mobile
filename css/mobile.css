@@ -1,0 +1,81 @@
+/* MENU: NAVBAR/HEADER */  
+
+  nav ul {
+    display: flex;
+    flex-wrap: initial;
+    font-size: 8.5px;
+  }
+
+  nav ul li {
+    flex-basis: 50%; 
+  }
+  
+/* SECTION MAIN IMAGE */
+  
+  #section-main-image  {
+    background-image: url('../img/cafe-900.jpg');
+    height: 100vh;
+  }
+
+  #section-main-image h1  {
+    font-size: 30px;
+  }
+
+  #section-main-image h3 {
+    font-size: 10px;
+  }
+
+  
+/* SECTION COFFEE */
+
+  #section-coffee h3 {
+    margin: 5px 0 5px 0;
+    font-size: 15px;
+  }
+
+  #section-coffee p {
+    text-align: center;
+    font-size: 10px;
+  }
+
+  .product-grid{
+    display: block;
+    text-align: center;
+    padding: 10px;
+  }
+
+  h2{
+  text-align: center;
+  }
+
+/* FOOTER CONTACT */
+
+#footer-contact h2 {
+  font-size: 16px;
+}
+
+  #footer-contact .contact-data {
+    display: block;
+    align-items: left;
+    text-align: left;
+  }
+
+  #footer-contact ul{
+    padding-left: 20px;
+  }
+  
+  .contact-form form {
+    margin: 0px;
+    text-align: left;
+  }
+
+  .contact-info {
+    font-size: 14px;
+  }
+
+  .form-control {
+    font-size: 14px;
+  }
+
+
+
